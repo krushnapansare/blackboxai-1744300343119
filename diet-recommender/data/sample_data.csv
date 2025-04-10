@@ -1,0 +1,9 @@
+age,gender,height,weight,activity_level,health_conditions,dietary_restrictions,goal,daily_calories,meal_plan
+25,male,175,70,moderate,none,none,weight_loss,2200,balanced
+30,female,165,60,light,none,vegetarian,weight_maintenance,1800,vegetarian
+40,male,180,85,active,hypertension,none,weight_loss,2500,low_sodium
+22,female,170,55,sedentary,none,vegan,muscle_gain,2000,high_protein
+35,male,182,78,very_active,none,none,muscle_gain,3000,high_calorie
+28,female,160,50,moderate,diabetes,gluten_free,weight_loss,1600,diabetic
+45,male,178,90,light,cholesterol,none,weight_loss,2200,low_fat
+32,female,168,65,active,none,lactose_free,weight_maintenance,2100,balanced
